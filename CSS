@@ -1,0 +1,28 @@
+<html>
+<head>
+<link rel='stylesheet'type'text/css' href='ext2-css>
+<style>
+h1
+{
+background-color:red;
+}
+p
+{
+background-color:green;
+}
+div
+{
+background-color:blue;
+}
+</stle>
+</head>
+<body>
+<h2>internal,external & Internal style!</h1>
+<div>text inside a div element.
+<p>paragraph background color</p>
+still in the div element
+</div>
+<pstyle="color;red;margin-left:20px;">hello world.
+</p>
+</body>
+</html>
